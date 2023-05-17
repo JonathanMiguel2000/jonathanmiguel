@@ -2,15 +2,15 @@
 
 🧠 Estou aprendendo fundamentos da programação
 
-👯‍♀️ Procuro trabalhar em Front end e consquistar minha independencia financeira 
+👯‍♀️ Procuro trabalhar em Front end e conquistar minha independencia financeira 
 
 📫 E-mail: jonymiki2000@gmail.com
 
 😄 Pronomes: Ele/Dele
 
-![Jonathan Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanmiguel&show_icons=true&theme=merko)
+![Jonathan Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanmiguel2000&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmiguel&size_weight=0.5&count_weight=0.5)](https://github.com/jonathanmiguel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmiguel2000&size_weight=0.5&count_weight=0.5)](https://github.com/jonathanmiguel2000/github-readme-stats)
 
 <div style="display:inline_block"><br>
   
